@@ -1,3 +1,6 @@
+This code is associated with the paper from  Lauver et al., "Antibody escape by polyomavirus capsid
+mutation facilitates neurovirulence". eLife, 2020. http://doi.org/10.7554/eLife.61056
+
 # isecc
 Icosahedral Subparticle Extraction and Correlated Classification
 
